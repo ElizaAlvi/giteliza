@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @giteliza
+- 👋 Hi, I’m @Eliza Alvi
 - 👀 I’m interested in coding, web designing
 - 🌱 I’m currently learning Python and C
 - 💞️ I’m looking to collaborate on ...
